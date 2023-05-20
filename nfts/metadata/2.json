@@ -1,0 +1,12 @@
+{
+  "name": "Some nft #2",
+  "description": "Description #2",
+  "marketplace": "getgems.io",
+  "attributes": [
+    {
+      "trait_type": "Attr",
+      "value": "#2"
+    }
+  ],
+  "image": "https://dogx-nft.github.io/batch-minter/nft-assets/nfts/InProcess.png"
+}
