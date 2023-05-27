@@ -1,0 +1,13 @@
+
+{
+  "name": "Some nft #11",
+  "description": "Description #7",
+  "marketplace": "getgems.io",
+  "attributes": [
+    {
+      "trait_type": "Attr",
+      "value": "#7"
+    }
+  ],
+  "image": "https://badass-ivan.github.io/test-collection-page/nfts/images/1.jpg"
+}
