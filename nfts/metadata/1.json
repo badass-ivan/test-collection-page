@@ -2,11 +2,6 @@
   "name": "Uniq nft #1",
   "description": "Description #1",
   "marketplace": "getgems.io",
-  "attributes": [
-    {
-      "trait_type": "Uniq",
-      "value": "Uniq"
-    }
-  ],
-  "image": "https://dogx-nft.github.io/batch-minter/nft-assets/nfts/InProcess.png"
+  "attributes": [],
+  "image": "https://dogx-nft.github.io/batch-minter/nft-assets/nfts/1.png"
 }
