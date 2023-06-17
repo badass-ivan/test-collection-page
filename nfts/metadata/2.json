@@ -4,6 +4,10 @@
   "marketplace": "getgems.io",
   "attributes": [
     {
+      "trait_type": "Animation",
+      "value": "GIF"
+    },
+    {
       "trait_type": "Attr",
       "value": "#2"
     }
